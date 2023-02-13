@@ -13,4 +13,4 @@ Python libraries used in project are as follows:
 - PIL (implicitly)
 
 
-For more information please refer to `CNN_project_report.pdf` within the repo.
+For more information please refer to blog post through this [link](https://medium.com/@qtepinkclou/write-an-algorithm-for-dog-identification-from-images-using-convolutional-neural-network-c33250a518f2).
