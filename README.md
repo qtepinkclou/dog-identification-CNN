@@ -25,7 +25,8 @@ The sub-algorithm called dog detector used for detection of dog faces was tested
 
 - Dog faces detected in 100 human face images provided in ratio: 0%, therefore it has 100% accuracy.
 - Dog faces detected in 100 dog face images provided in ratio: 100%, therefore it has 100% accuracy.
-- Own model architecture has reached around 2.8% accuracy in correctly identifying the breed type of the test set of the dog images provided.
+
+Own model architecture has reached around 2.8% accuracy in correctly identifying the breed type of the test set of the dog images provided.
 
 VGG16 model architecture has reached around 41.3% accuracy in correctly identifying the breed type of the test set of the dog images provided.
 
